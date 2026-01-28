@@ -1,0 +1,259 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "text": "# 超越99%的人\n## 6-12个月蜕变框架\n\n**核心**: 清晰度 + 系统 + 行动",
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "antivision",
+      "type": "text",
+      "text": "## 反愿景 (Anti-Vision)\n\n对\"你绝不想过的生活\"的残酷觉察\n\n- 识别要避免的路径\n- 明确要放弃的习惯\n- 感受不适感的推动力",
+      "x": -500,
+      "y": -300,
+      "width": 280,
+      "height": 200,
+      "color": "6"
+    },
+    {
+      "id": "vision",
+      "type": "text",
+      "text": "## 愿景 (Vision)\n\n反愿景的反面 - 你的理想生活\n\n- 尽可能具体\n- 让大脑识别机会\n- 提供方向和过滤器",
+      "x": 500,
+      "y": -300,
+      "width": 280,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "system",
+      "type": "text",
+      "text": "## 系统胜过目标\n\n日常系统确保进步\n\n- 每日专注时间 (2-4小时)\n- 周回顾与调整\n- 技能堆叠策略",
+      "x": 0,
+      "y": -400,
+      "width": 280,
+      "height": 180,
+      "color": "5"
+    },
+    {
+      "id": "selfedu",
+      "type": "text",
+      "text": "## 自我教育\n\n\"疯狂地自我教育\"\n\n- 6-12个月纯粹专注\n- 不只是看教程\n- 创建实际项目",
+      "x": -450,
+      "y": 200,
+      "width": 260,
+      "height": 180,
+      "color": "3"
+    },
+    {
+      "id": "oneperson",
+      "type": "text",
+      "text": "## 一人企业模式\n\n四大支柱:\n\n1. **品牌** - 你的故事\n2. **内容** - 你的地图\n3. **产品** - 你的解决方案\n4. **营销** - 你的体验",
+      "x": 450,
+      "y": 200,
+      "width": 280,
+      "height": 200,
+      "color": "2"
+    },
+    {
+      "id": "skills",
+      "type": "text",
+      "text": "## 核心技能\n\n- 写作\n- 营销\n- 销售\n- 设计\n- 编程\n- AI应用",
+      "x": -200,
+      "y": 400,
+      "width": 180,
+      "height": 180,
+      "color": "3"
+    },
+    {
+      "id": "action",
+      "type": "text",
+      "text": "## 立即行动\n\n1. 写下反愿景 (1小时)\n2. 写下愿景 (1小时)\n3. 确定1年目标\n4. 列出3个核心技能\n5. 设定每日专注时间",
+      "x": 200,
+      "y": 400,
+      "width": 240,
+      "height": 180,
+      "color": "1"
+    },
+    {
+      "id": "quote1",
+      "type": "text",
+      "text": "> \"你不需要更多的动力，你需要更多的清晰度。\"",
+      "x": -600,
+      "y": 0,
+      "width": 220,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "quote2",
+      "type": "text",
+      "text": "> \"私下解决问题叫自我提升，公开解决问题叫商业。\"",
+      "x": 600,
+      "y": 0,
+      "width": 220,
+      "height": 80,
+      "color": "5"
+    },
+    {
+      "id": "roadmap",
+      "type": "text",
+      "text": "## 6-12个月路线图\n\n**1-2月**: 基础建设\n**3-4月**: 技能强化\n**5-6月**: 项目实践\n**7-8月**: 公开分享\n**9-10月**: 建立受众\n**11-12月**: 变现验证",
+      "x": 0,
+      "y": 650,
+      "width": 280,
+      "height": 220,
+      "color": "4"
+    },
+    {
+      "id": "framework",
+      "type": "text",
+      "text": "## 6组件框架\n\n1. 反愿景\n2. 愿景\n3. 1年目标\n4. 收入目标\n5. 专注目标\n6. 习惯系统",
+      "x": -350,
+      "y": -100,
+      "width": 200,
+      "height": 200,
+      "color": "2"
+    },
+    {
+      "id": "obstacles",
+      "type": "text",
+      "text": "## 常见障碍\n\n❌ 沉迷数量而非质量\n❌ 为钱创作而非为创作赚钱\n❌ 追逐快速赚钱的技能\n❌ 从不设定自己的目标\n❌ 从不在学校外学习",
+      "x": 350,
+      "y": -100,
+      "width": 260,
+      "height": 200,
+      "color": "6"
+    },
+    {
+      "id": "dankoe",
+      "type": "text",
+      "text": "## Dan Koe\n\n📺 The Koe Cast\n📧 The Koe Letter\n📖 The Art of Focus\n\n一人企业实践者\n超过200万订阅者",
+      "x": 0,
+      "y": -620,
+      "width": 220,
+      "height": 160,
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "center",
+      "fromSide": "top",
+      "toNode": "system",
+      "toSide": "bottom",
+      "label": "基础"
+    },
+    {
+      "id": "e2",
+      "fromNode": "center",
+      "fromSide": "left",
+      "toNode": "antivision",
+      "toSide": "right",
+      "label": "第一步"
+    },
+    {
+      "id": "e3",
+      "fromNode": "center",
+      "fromSide": "right",
+      "toNode": "vision",
+      "toSide": "left",
+      "label": "第二步"
+    },
+    {
+      "id": "e4",
+      "fromNode": "antivision",
+      "fromSide": "right",
+      "toNode": "vision",
+      "toSide": "left",
+      "label": "转化"
+    },
+    {
+      "id": "e5",
+      "fromNode": "center",
+      "fromSide": "bottom",
+      "toNode": "selfedu",
+      "toSide": "top",
+      "label": "方法"
+    },
+    {
+      "id": "e6",
+      "fromNode": "center",
+      "fromSide": "bottom",
+      "toNode": "oneperson",
+      "toSide": "top",
+      "label": "变现"
+    },
+    {
+      "id": "e7",
+      "fromNode": "selfedu",
+      "fromSide": "bottom",
+      "toNode": "skills",
+      "toSide": "top"
+    },
+    {
+      "id": "e8",
+      "fromNode": "oneperson",
+      "fromSide": "bottom",
+      "toNode": "action",
+      "toSide": "top"
+    },
+    {
+      "id": "e9",
+      "fromNode": "skills",
+      "fromSide": "bottom",
+      "toNode": "roadmap",
+      "toSide": "left"
+    },
+    {
+      "id": "e10",
+      "fromNode": "action",
+      "fromSide": "bottom",
+      "toNode": "roadmap",
+      "toSide": "right"
+    },
+    {
+      "id": "e11",
+      "fromNode": "system",
+      "fromSide": "top",
+      "toNode": "dankoe",
+      "toSide": "bottom",
+      "label": "作者"
+    },
+    {
+      "id": "e12",
+      "fromNode": "antivision",
+      "fromSide": "bottom",
+      "toNode": "framework",
+      "toSide": "top"
+    },
+    {
+      "id": "e13",
+      "fromNode": "vision",
+      "fromSide": "bottom",
+      "toNode": "obstacles",
+      "toSide": "top",
+      "label": "避免"
+    },
+    {
+      "id": "e14",
+      "fromNode": "framework",
+      "fromSide": "right",
+      "toNode": "center",
+      "toSide": "left"
+    },
+    {
+      "id": "e15",
+      "fromNode": "obstacles",
+      "fromSide": "left",
+      "toNode": "center",
+      "toSide": "right"
+    }
+  ]
+}
